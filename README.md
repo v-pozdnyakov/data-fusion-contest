@@ -10,5 +10,5 @@
 
 Notebooks:
 1. data_fusion_task1_BERTML.ipynb - дообучение distilbert на задаче masked language modeling.
-2. DISTILBERT_with_pseudo.ipynb - дообучение distilbert из п.2 на задаче классификации item_name из чеков и псевдоразметка данных.
+2. DISTILBERT_with_pseudo.ipynb - дообучение distilbert из п.1 на задаче классификации item_name из чеков и псевдо разметка данных.
 3. task1_data_fusion.ipynb - SVM + TFIDF классификация item_name из чеков.
